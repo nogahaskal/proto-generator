@@ -20,12 +20,12 @@ Use the generateProto method to generate your .proto into node and typescript!
 const protoGenerator = require('proto-generator');
 
 options = {
-    repositoryOwner: 'my-user',
-    repository: 'my-service',
+    repositoryOwner: 'myUser',
+    repository: 'myService',
     githubBranch: 'master',
 }
 
-protoGenerator.getProtoFile('proto/my-service/my.proto', 'my.proto' , options) # creates a new proto folder with the proto file inside
-protoGenerator.generateProto('proto/my.proto')  # generate the proto file into node and typescript
+protoGenerator.getProtoFile('proto/myService-service/myProto.proto', 'myProto.proto' , options) # creates a new proto folder with the proto file inside
+protoGenerator.generateProto('proto/myProto.proto')  # generates the proto file into node and typescript
 
 ```
