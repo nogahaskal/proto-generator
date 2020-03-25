@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/nogahaskal/proto-generator/compare/v1.1.7...v1.2.0) (2020-03-25)
+
+
+### Features
+
+* add types ([52d2c25](https://github.com/nogahaskal/proto-generator/commit/52d2c252f974c32038e9f7405dfa28d9020d0829))
+
 ### 1.1.7 (2020-03-25)
 
 
