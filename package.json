@@ -30,6 +30,6 @@
   ],
   "types": "dist/index.d.ts",
   "devDependencies": {
-    "standard-version": "^7.1.0"
+    "standard-version": "^8.0.1"
   }
 }
